@@ -3,11 +3,6 @@
 <!--
 **nadia506/nadia506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi! I'm Bokyung Nadia Kim, a current Master's student in Engineering Management with a focus on cybersecurity and data science at Johns Hopkins University. During my undergraduate studies at Johns Hopkins University, where I dual-majored in Computer Science and Neuroscience, I concentrated on Human-Computer Interaction (HCI) research and worked as a full-stack software developer. Currently, I am expanding my knowledge in machine learning, deep learning, and AI. 
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm Bokyung Nadia Kim, a current Master's student in Engineering Management with a focus on cybersecurity and data science at Johns Hopkins University. During my undergraduate studies at Johns Hopkins University, where I dual-majored in Computer Science and Neuroscience, I concentrated on Human-Computer Interaction (HCI) research and worked as a full-stack software developer. Currently, I am expanding my knowledge in machine learning, deep learning, and AI. 
