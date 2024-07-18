@@ -1,5 +1,9 @@
 ### Welcome to my profile 👋
 
+
+Hi! I'm Bokyung Nadia Kim, a current Master's student in Engineering Management with a focus on cybersecurity at Johns Hopkins University. During my undergraduate studies at Johns Hopkins University, where I dual-majored in Computer Science and Neuroscience, I concentrated on Human-Computer Interaction (HCI) research and worked as a full-stack software developer. Currently, I am expanding my knowledge in machine learning, deep learning, and AI. 
+
+
 <!--
 **nadia506/nadia506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
